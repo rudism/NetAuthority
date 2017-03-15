@@ -1,0 +1,59 @@
+BODY {
+	background:
+		#FFFFFF
+		none
+		no-repeat
+		fixed
+		center center
+	;
+}
+
+P, A, TD, DIV, UL, LI, STRONG, EM {
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+P, TD, UL, LI {
+	font-size: 12px;
+}
+
+SMALL {
+	font-size: 10px;
+}
+
+P.title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+P.subtitle {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+P.small {
+	font-size: 10px;
+}
+
+P.italic {
+	font-style: italic;
+}
+
+A:link, A:visited {
+	text-decoration: none;
+	color: #006699;
+}
+
+A:active, A:hover {
+	text-decoration: underline;
+	color: #3399CC;
+}
+
+STRONG {
+	font-weight: bold;
+}
+
+P.subtitle EM {
+	font-size: 10px;
+	font-weight: normal;
+	font-style: italic;
+}

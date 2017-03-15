@@ -1,0 +1,4 @@
+#!/bin/perl
+
+print "Location: http://www.netauthority.org/forum.html\n\n";
+1;
